@@ -49,7 +49,7 @@ Install the required packages:
 Create a .env file in the root directory of your project.
 Inside this file, set your Google API key:
    ```bash
-GOOGLE_API_KEY=your_google_api_key_here
+GOOGLE_API_KEY="your_google_api_key_here"
    ```
 You can get your API key from the Google Cloud Console.
 

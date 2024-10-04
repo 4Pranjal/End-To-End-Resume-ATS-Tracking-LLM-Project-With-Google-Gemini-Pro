@@ -60,7 +60,10 @@ For Q&A Chatbot:
    ```bash
    streamlit run app.py
    ```
+ ![11](https://github.com/user-attachments/assets/71b7ab06-edae-45cf-a570-255116cfa14e)
  
+ ![22](https://github.com/user-attachments/assets/a4555157-a858-4132-b324-d8ef76f21d02)
+
 
 ## Contributors
 
